@@ -1,3 +1,6 @@
+# pytube
+	Updated version with solved problem of regex error  
+
 <div align="center">
   <p>
     <a href="#"><img src="https://assets.nickficano.com/gh-pytube.min.svg" width="456" height="143" alt="pytube logo" /></a>
@@ -8,10 +11,6 @@
 	<a href="https://pypi.org/project/pytube/"><img src="https://img.shields.io/pypi/v/pytube?style=flat-square" /></a>
   </p>
 </div>
-
-### Actively soliciting contributors!
-
-Have ideas for how pytube can be improved? Feel free to open an issue or a pull request!
 
 # pytube
 
@@ -58,10 +57,10 @@ To install from PyPI with pip:
 $ python -m pip install pytube
 ```
 
-Sometimes, the PyPI release becomes slightly outdated. To install from the source with pip:
+If you want install my version. To install from the source with pip:
 
 ```bash
-$ python -m pip install git+https://github.com/pytube/pytube
+$ python -m pip install git+https://github.com/TinKurbatoff/pytube
 ```
 
 ### Using pytube in a Python script
